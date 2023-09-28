@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Drinks_Vending_Machine.chocolate" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.Coffee" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>Coffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.Tea" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>Tea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.Drink" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAQAAQEAEgAAAAAQAAAAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.VendingMachine" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSAACCAIAIBAAAAMCgCIAEBAAAAJIAAAAAABAQAAEIA=</HashCode>
+      <FileName>VendingMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.TooManyDrinksException" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TooManyDrinksException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.LackOfResourceException" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LackOfResourceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drinks_Vending_Machine.Program" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
